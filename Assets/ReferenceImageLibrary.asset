@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4962752753062324950
+  m_GuidHigh: 7608324279970655919
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5145848532215935688
+      m_GuidHigh: 15836864711652704173
+    m_SerializedTextureGuid:
+      m_GuidLow: 17232119216100067667
+      m_GuidHigh: 18123856352991108395
+    m_Size: {x: 0.06, y: 0.090337075}
+    m_SpecifySize: 1
+    m_Name: visualize_iris
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5409613511424568992
+      m_GuidHigh: 3999830155008544652
+    m_SerializedTextureGuid:
+      m_GuidLow: 6779070586524256458
+      m_GuidHigh: 8938244584678642810
+    m_Size: {x: 0.06, y: 0.090337075}
+    m_SpecifySize: 1
+    m_Name: kmeans
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4668824524018404430
+      m_GuidHigh: 16414600627430014369
+    m_SerializedTextureGuid:
+      m_GuidLow: 4288717670754477670
+      m_GuidHigh: 15764322666518895867
+    m_Size: {x: 0.1, y: 0.15014006}
+    m_SpecifySize: 1
+    m_Name: kmeansExercise
+    m_Texture: {fileID: 0}
