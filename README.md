@@ -38,6 +38,7 @@ Cite as:\
 via https://github.com/AI-for-Business/Mobile-AR-KMeans*
 
 # DOI - Code
+[![DOI](https://zenodo.org/badge/598092629.svg)](https://zenodo.org/doi/10.5281/zenodo.10589227)
 
 # Contact / About us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
